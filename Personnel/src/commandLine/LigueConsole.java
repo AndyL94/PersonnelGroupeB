@@ -9,7 +9,9 @@ import commandLineMenus.Menu;
 import commandLineMenus.Option;
 
 import personnel.*;
+import java.time.LocalDate;
 import java.time.format.*;
+
 public class LigueConsole 
 {
 	private GestionPersonnel gestionPersonnel;
